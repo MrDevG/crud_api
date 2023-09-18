@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "coKQrieN09Qk1YJrVV5iOMoWz3P5fOuBHNchZ1osatE=",
+  "Source": "CRUDStoredProcedure",
+  "BasePath": "_content/CRUDStoredProcedure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
